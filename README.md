@@ -42,6 +42,8 @@ Imprimindo:
 [Talking To The Moon]
 ```
 - Pesquisar dados sobre um artista:
+  
+_**Importante:** para rodar esse método, é imprescindível que acesse a classe "ConsultaChatGPT", no pacote 'service' e coloque sua própria APIKEY do ChatGPT._
 ```
 Digite 5
 Digite 'Bruno Mars'
